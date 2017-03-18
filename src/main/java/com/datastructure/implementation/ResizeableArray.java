@@ -1,6 +1,4 @@
-package com.java.arrays;
-
-import java.awt.*;
+package com.datastructure.implementation;
 
 /**
  * Resizeable Arrays Implementation.
