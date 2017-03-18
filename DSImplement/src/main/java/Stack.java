@@ -1,4 +1,4 @@
-package com.datastructure.implementation;
+package main.java;
 
 /**
  * Implementation for Stack Data Structure.

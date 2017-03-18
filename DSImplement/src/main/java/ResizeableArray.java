@@ -1,4 +1,4 @@
-package com.datastructure.implementation;
+package main.java;
 
 /**
  * Resizeable Arrays Implementation.
